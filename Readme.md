@@ -1,7 +1,7 @@
-# Личный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Владимир Хребтов](https://up.htmlacademy.ru/ecmascript/1/user/118371).
-* Наставник: `Неизвестно`.
+* Наставник: `Евгений Лепёшкин`.
 
 ---
 
